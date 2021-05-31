@@ -8,8 +8,10 @@
 ## Syntax guide
 - **Headers**  use #
 - **Lists**    use - or 1. 2.
-- **Images** use{  ![]()       }
-- **Links** use {    []()     }
+- **Images** use
+![image]()
+- **Links** use 
+![link]()
 - **Emphasis**
 ### You can indicate emphasis with bold, italic, or strikethrough text in comment fields and .md files.
 
