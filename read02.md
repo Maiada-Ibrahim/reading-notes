@@ -34,7 +34,9 @@
 ![](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 ## Setting up a Git Repository
 ### Importing
-1.*Switch to the target project’s directory*
+
+
+1. *Switch to the target project’s directory*
 
              example :$ cd test (cd = change directory)
 2. *Do the change and to prepar it to commit* 

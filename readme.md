@@ -4,5 +4,5 @@
 |file name|link                                       |        
 |------------------  | -------------------------------|
 |lab01|[Growth Mindset](https://maiada-ibrahim.github.io/reading-notes/lab01)|
-|read02  |[ A Comprehensive Guide](https://maiada-ibrahim.github.io/reading-notes/read02)|             
-|lab01   |[Growth Mindset](https://maiada-ibrahim.github.io/reading-notes/lab01)|               
+|read01  |[Mastering Markdown ](https://maiada-ibrahim.github.io/reading-notes/read01)| 
+|read02|[Git Tutorial]()|
