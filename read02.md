@@ -48,4 +48,6 @@
 4. *git push*
 
               example: git push origin main
-For more information [check here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
+
+
+## For more information [check here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
