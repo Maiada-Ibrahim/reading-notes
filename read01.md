@@ -1,4 +1,3 @@
-
 # Mastering Markdown
 ![markdown](https://cdn.slidesharecdn.com/ss_thumbnails/the-power-of-markdown-170323103313-thumbnail-4.jpg?cb=1510671543)
 ## What is Markdown?
