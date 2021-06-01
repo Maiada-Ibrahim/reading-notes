@@ -1,6 +1,6 @@
 #### **Development**
 # Git Tutorial: A Comprehensive Guide
-
+![git](https://www.javacodegeeks.com/wp-content/uploads/2016/08/Git-Tutorial_book.png)
 ## INTRODUCTION
 ### efore beginning this tutorial, it is highly recommended that you have a solid understanding of the Terminal (for Mac) or Command Line (for Windows and Linux).In order to explain Git, we have to first explain various aspects of Version Control.
 ## Version Control

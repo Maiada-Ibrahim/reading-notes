@@ -3,6 +3,5 @@
 
 | file name   |   link    |        
 -------       | --------
-| read01      |[Markdown](read01.md)|
-| read02      |[Growth Mindset](read02.md) |
-|read03       |[Git Tutorial: A Comprehensive Guide](read03.md)                       
+| read01      |[Markdown]()|
+| read02      |[Growth Mindset]() |                      

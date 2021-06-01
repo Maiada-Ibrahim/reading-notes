@@ -1,5 +1,5 @@
 # Growth Mindset
-![BRAIN](https://alray.ps/ar/thumb.php?src=uploads//images/1c107c20ac76da7fabdb5d35d955c7e4.jpg&w=1000&zc=1)
+![BRAIN](https://inteng-storage.s3.amazonaws.com/images/APRIL/sizes/brain_alcohol_resize_md.jpg)
 ## How you can benefit from a growth mindset
 ### The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 

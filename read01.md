@@ -1,5 +1,5 @@
 # Mastering Markdown
-![markdown](https://cdn.slidesharecdn.com/ss_thumbnails/the-power-of-markdown-170323103313-thumbnail-4.jpg?cb=1510671543)
+![markdown](https://miro.medium.com/max/4000/1*i4kYbezI3qc-6FzDPjPnVA.png)
 ## What is Markdown?
 ###  Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 ### You can use Markdown most places around GitHub:
