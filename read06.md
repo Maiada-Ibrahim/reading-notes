@@ -23,14 +23,14 @@
 ## What we need to know to use JavaScript ?
 1. comments 
 2. Datatypes 
-- String -> text -> "Israa" or 'Israa' or "5"
-- Number -> any number 1 5 9 -1 
-- Boolean -> true or false
+###### String -> text -> "Israa" or 'Israa' or "5"
+###### Number -> any number 1 5 9 -1 
+###### Boolean -> true or false
 3. Variables
 var userName;
-userName = "Israa";
-var myId = 1234;
-var test = true;
+###### userName = "Israa";
+###### var myId = 1234;
+###### var test = true;
 To learn more [check here](https://code-maven.com/input-output-in-plain-javascript)
 
 
