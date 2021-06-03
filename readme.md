@@ -6,3 +6,7 @@
 |lab01|[Growth Mindset](https://maiada-ibrahim.github.io/reading-notes/lab01)|
 |read01  |[Mastering Markdown ](https://maiada-ibrahim.github.io/reading-notes/read01)| 
 |read02|[Git Tutorial](https://maiada-ibrahim.github.io/reading-notes/read02)|
+|read03|[Wireframe](https://maiada-ibrahim.github.io/reading-notes/read03)|
+|read04 |[CSS](maiada-ibrahim.github.io/reading-notes/read04)|
+|read05|[Java script](maiada-ibrahim.github.io/reading-notes/read05)|
+
