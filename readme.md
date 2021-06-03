@@ -8,6 +8,6 @@
 |read02|[Git Tutorial](https://maiada-ibrahim.github.io/reading-notes/read02)|
 |read03|[Wireframe](https://maiada-ibrahim.github.io/reading-notes/read03)|
 |read04|[CSS](https://maiada-ibrahim.github.io/reading-notes/read04)|
-|read06|[Java script](maiada-ibrahim.github.io/reading-notes/read06)|
+|read06|[java script](https://maiada-ibrahim.github.io/reading-notes/read06)|
 
 
