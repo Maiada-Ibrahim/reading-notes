@@ -28,7 +28,7 @@
 - Boolean -> true or false
 3. Variables
 var userName;
- userName = "Israa";
+userName = "Israa";
 var myId = 1234;
 var test = true;
 To learn more [check here](https://code-maven.com/input-output-in-plain-javascript)
