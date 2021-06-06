@@ -9,5 +9,7 @@
 |read03|[Wireframe](https://maiada-ibrahim.github.io/reading-notes/read03)|
 |read04|[CSS](https://maiada-ibrahim.github.io/reading-notes/read04)|
 |read06|[java script](https://maiada-ibrahim.github.io/reading-notes/read06)|
+|read07|[Operators](https://maiada-ibrahim.github.io/reading-notes/read07)|
+|read08|[Loops and iteration](https://maiada-ibrahim.github.io/reading-notes/read08)|
 
 
