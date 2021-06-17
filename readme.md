@@ -8,6 +8,7 @@
 * ### Windows specifications: Windows 10 Home Single Language version 21H1 
 
 ## Code 102 Reading Notes
+
 |File Name|Link                                       |        
 |------------------  | -------------------------------|
 |lab01|[Growth Mindset](https://maiada-ibrahim.github.io/reading-notes/lab01)|
