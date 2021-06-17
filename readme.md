@@ -1,5 +1,5 @@
 
-##  My name is Maiada Ibrahim a computer engineer and I'm 27 years graduated from Tafila Technical University, I have a little bit edge in SQL and C# and I want to learn more in this felid to be full stack developer and I am working on a laptop with the following specs:
+##  *My name is Maiada Ibrahim a computer engineer and I'm 27 years graduated from Tafila Technical University, I have a little bit edge in SQL and C# and I want to learn more in this felid to be full stack developer and I am working on a laptop with the following specs:*
 
 * ### Operating system: 64-bit
 
