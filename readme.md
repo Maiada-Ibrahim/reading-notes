@@ -7,6 +7,11 @@
 
 * ### Windows specifications: Windows 10 Home Single Language version 21H1 
 
+
+## This web site include a tables of contents for reading assignments at  my journey in coding to learn how to be full stack developer
+
+
+
 ## Code 102 Reading Notes
 
 |File Name|Link                                       |        
