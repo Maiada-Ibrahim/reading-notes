@@ -32,7 +32,7 @@
 
 |File Name|Link                                       |        
 |------------------  | -------------------------------|
-|                    |                                |
+|class-01|[The Structure of HTML& CSS book](https://maiada-ibrahim.github.io/reading-notes/class-01)|
 |                    |                                |
 |                    |                                |
 |                    |                                |
