@@ -45,6 +45,37 @@ specifies Arial as the preferred typeface.
 although they may appear within an HTML page.
 ## From the Duckett JS book:
 ### Chapter 2: “Basic JavaScript Instructions”
+## DATA TYPES:
+- NUMERIC DATA TYPE: 0.75
+- STRING DATA TYPE : 'come with us'
+- BOOLEAN DATA TYPE :true
+-------------------------------
+## USING A VARIABLE TO STORE A NUMBER
+var price;
+var quantity;
+var total;
+price = 5;
+quantity = 14;
+------------------------------------------
+## USING A VARIABLE TO STORE A STRING
+username = 'Molly';
+message = 'See our upcoming range';
+-------------------------------------
+## USING A VARIABLE TO STORE A BOOLEAN
+var a =true
+-------------------------------------
+## RULES FOR NAMING
+![](rule.png)
+-----------------------------------------
+## OPERATORS
+### logical  ex: 
+    <
+    >=
+    <=
+### ARITHMETIC OPERATORS
+   ![](op.png)
+
+------------------------------------------
 - A script is made up of a series of statements. Each
 statement is like a step in a recipe.
 - Scripts contain very precise instructions. For example,
@@ -61,6 +92,14 @@ than one piece of related information.
 strings (text), and Boolean values (true or false).
 - Expressions evaluate into a single value.
 - Expressions rely on operators to calculate a value.
+------------------------------------------
+## Chapter 4: “Decisions and Loops” only up to the section on switch statements
+![](loop.png)
+### we use to do that 
+- if statment 
+- switch
+### example
+![](loop2.png)
  
-# To download load all book [check here](https://oiipdf.com/javascript-and-jquery-interactive-front-end-web-development)
+#### To download load all book [check here](https://oiipdf.com/javascript-and-jquery-interactive-front-end-web-development)
 
