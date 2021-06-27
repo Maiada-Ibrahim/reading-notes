@@ -28,7 +28,6 @@ attributes, by tag name, or using CSS selector syntax.
 
         exp : methods that select individual element
 ![](tree6.png)
-----------------------------------------------------------------\\-------------------------------
 
 - From an element node, you can access and update its content using properties such as textContent and innerHTML or using DOM manipulation techniques.
 ![](tree7.png)
