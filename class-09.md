@@ -27,4 +27,5 @@ use to control them and make them more consistent.
 - Forms are easier to use if the form controls are
 vertically aligned using CSS.
 - Forms benefit from styles that make them feel more
-interactive.
+interactive
+--------------------------------------
