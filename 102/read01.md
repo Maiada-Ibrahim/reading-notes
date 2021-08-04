@@ -10,10 +10,10 @@
 - **Headers**  use #
 - **Lists**    use - or 1. 2.
 - **Images** use
-![image](image.png)
+![image](../img/102/image.png)
 
 - **Links** use 
-![link](link.png)
+![link](../img/102/link.png)
 
 - **Emphasis**
 ### You can indicate emphasis with bold, italic, or strikethrough text in comment fields and .md files.

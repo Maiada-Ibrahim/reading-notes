@@ -20,7 +20,7 @@ the page you are linking to.
 best to use relative links rather than qualified URLs.
 - You can create links to open email programs with an
 email address in the "to" field.
-![](read04.png)
+![](../img/201/read04.png)
 - You can use the id attribute to target elements within
 a page that can be linked to.
 ------------------------------------
@@ -38,7 +38,7 @@ and indicate what the site is about within the top 600
 pixels (to demonstrate its relevance without scrolling).
 - Grids help create professional and flexible designs.
      - ex
-     ![](read042.png)
+     ![](../img/201/read042.png)
 - CSS Frameworks provide rules for common tasks.
 - You can include multiple CSS files in one page
 -------------------------------------------------------------
@@ -48,7 +48,7 @@ pixels (to demonstrate its relevance without scrolling).
 statements together that represent a single task.
 - Functions can take parameters (informatiorJ required
 to do their job) and may return a value.
-![](fun.png)
+![](../img/201/fun.png)
 -----------------------------------------------------------
 ## How does pair programming work?
 #### While there are many different styles, pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.

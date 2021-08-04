@@ -1,5 +1,5 @@
 # The Structure of HTML& CSS book:
-![HTMLAND CSS BOOK](HTMLANDCSSBOOK.png)
+![HTMLAND CSS BOOK](../img/201/HTMLANDCSSBOOK.png)
 
 **In order to teach you about creating web pages, 
 this book is divided into three sections**
@@ -29,8 +29,8 @@ laptops.
 ## How Websites Are Created 
 #### All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
 ## How the Web Works
-![workweb](webwork.png)
-![workweb](webwork2.png)
+![workweb](../img/201/webwork.png)
+![workweb](../img/201/webwork2.png)
 <<<<<<< HEAD
 # chap1:  Structure
 #### structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document. So, you must to know this information:
@@ -38,40 +38,40 @@ laptops.
 - HTML uses tags (characters that sit inside angled brackets) to give   the information they surround special meaning.
 - Tags are often referred to as elements.
 #### example : 
-![exp1](exp1.png)
+![exp1](../img/201/exp1.png)
 
 - Tags usually come in pairs. The opening tag denotes the start of a    piece of content; the closing tag denotes the end.
 #### example : 
-![exp2](exp2.png)
-![exp3](exp3.png)
+![exp2](../img/201/exp2.png)
+![exp3](../img/201/exp3.png)
 - Opening tags can carry attributes, which tell us more about the       content of that element.
 - Attributes require a name and a value.
 #### example : 
-![exp4](exp4.png)
+![exp4](../img/201/exp4.png)
 - To learn HTML you need to know what tags are available for you to     use, what they do, and where they can go.
 ## chap8: Extra Markup
 - DOCTYPES tell browsers which version of HTML you using.
 #### example : 
-![exp5](exp5.png)
+![exp5](../img/201/exp5.png)
 - You can add comments to your code between the <!-- and --> markers.
 - The id and class attributes allow you to identify particular  elements
 #### example : 
-![exp6](exp6.png)
-![exp7](exp7.png).
+![exp6](../img/201/exp6.png)
+![exp7](../img/201/exp7.png).
 
 -  Block level elements : it is some elements will always appear to start on a new line in the browser window.
 - Inline elements it is some elements will always appear to continue on the same line as their neighbouring elements.
 - The <div> and <span> elements allow you to group block-level and inline elements together.
 #### example : 
-![exp8](exp8.png)
+![exp8](../img/201/exp8.png)
 
 - <iframes> cut windows into your web pages through which other pages can be displayed.
 #### example : 
-![exp9](exp9.png)
+![exp9](../img/201/exp9.png)
 
 - The <meta> tag allows you to supply all kinds of information about your web page.
 #### example : 
-![exp10](exp10.png)
+![exp10](../img/201/exp10.png)
 - Escape characters are used to include special characters in your pages such as <, >, and ©.
  ### chap17: HTML5 Layout
 - The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
@@ -82,23 +82,23 @@ laptops.
 - It's important to understand who your target audience is to know them you must ask your self some questions
 
 #### example : 
-![exp11](exp11.png)
+![exp11](../img/201/exp11.png)
 - Why they would come to your site : there are two basic categories of questions you can ask:The first attempts to discover the underlying motivations for why visitors come to the site and the second examines the specific goals of the visitors. These are the triggers making them come to the site now.
 #### example : 
-![exp12](exp12.png)
+![exp12](../img/201/exp12.png)
 
 - what information they want to find and when they are likely to return, Here are some questions to help you decide what information to provide for visitors to your site...
 #### example : 
-![exp13](exp13.png)
+![exp13](../img/201/exp13.png)
 -Site map : it is create a diagram of the pages that will be used to structure the site.
 - Site maps allow you to plan the structure of a site.
 - To help you decide what information should go on each page, you can use a technique called card sorting.
 #### example : 
-![exp14](exp14.png)
+![exp14](../img/201/exp14.png)
 - A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
 - Wireframes allow you to organize the information that will need to go on each page.
 #### example : 
-![exp15](exp15.png)
+![exp15](../img/201/exp15.png)
 - Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
 - You can differentiate between pieces of information using size, color, and style. 
 - You can use grouping and similarity to help simplify the      information you present.

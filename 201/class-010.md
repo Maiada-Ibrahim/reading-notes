@@ -5,10 +5,10 @@
 ### To find the source of an error, it helps to know how scripts are processed.The order in which statements are executed can be complex; some tasks cannot complete until another statement or function has been run
 ## EXECUT.ION CONTEXTS
 ### The JavaScript interpreter uses the concept of execution contexts.here is one global execution context; plus, each function creates a new execution context. They correspond to variable scope.
-![](class1-10.png)
+![](../img/201/class1-10.png)
 ## The stacks
-![](class2-10.png)
-![](class03-10.png)
+![](../img/201/class2-10.png)
+![](../img/201/class03-10.png)
 ## EXECUTION CONTEXT & HOISTING
 Each time a script enters a new execution context, there are two phases
 of activity:
@@ -32,7 +32,7 @@ of activity:
 
  ## ERROR OBJECTS
  ### Error objects can help you find where your mistakes are and browsers have tools to help you read them.
- ![](class4-10.png)
+ ![](../img/201/class4-10.png)
 
 - Debugging is the process of finding errors. It involves a
 process of deduction.
@@ -44,4 +44,4 @@ and gives a description of the error.
 - If you know that you may get an error, you can handle
 it gracefully using the try, catch, finally statements.
 Use them to give your users helpful feedback.
-![](class5-10.png)
+![](../img/201/class5-10.png)

@@ -65,7 +65,7 @@ message = 'See our upcoming range';
 var a =true
 -------------------------------------
 ## RULES FOR NAMING
-![](rule.png)
+![](../img/201/rule.png)
 -----------------------------------------
 ## OPERATORS
 ### logical  ex: 
@@ -73,7 +73,7 @@ var a =true
     >=
     <=
 ### ARITHMETIC OPERATORS
-   ![](op.png)
+   ![](../img/201/op.png)
 
 ------------------------------------------
 - A script is made up of a series of statements. Each
@@ -86,7 +86,7 @@ information used in the script.
 - Arrays are special types of variables that store more
 than one piece of related information.
 #### exp: 
-![](exclass2.png)
+![](../img/201/exclass2.png)
 
 - JavaScript distinguishes between numbers (0-9),
 strings (text), and Boolean values (true or false).
@@ -94,12 +94,12 @@ strings (text), and Boolean values (true or false).
 - Expressions rely on operators to calculate a value.
 ------------------------------------------
 ## Chapter 4: “Decisions and Loops” only up to the section on switch statements
-![](loop.png)
+![](../img/201/loop.png)
 ### we use to do that 
 - if statment 
 - switch
 ### example
-![](loop2.png)
+![](../img/201/loop2.png)
  
 #### To download load all book [check here](https://oiipdf.com/javascript-and-jquery-interactive-front-end-web-development)
 

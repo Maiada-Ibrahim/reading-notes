@@ -13,13 +13,13 @@ or column using the rowspan and colspan attributes.
 - For long tables you can split the table into a\ \<thead>\<tbody>, and\<tfoot>.
 
 ## Basic Table St ructure
-![](table1.png)
+![](../img/201/table1.png)
 
 
 
 ## Table Headings\<th>
 #### The \<th> element is used justlike the \<td> element but itspurpose is to represent theheading for either a column ora row. (The th stands for tableheading.)
-![](table2.png)
+![](../img/201/table2.png)
 ## Spanning ColumnS
 The colspan attribute can be
 used on a \<th> or \<td> element
@@ -31,6 +31,6 @@ The rowspan attribute can be
 used on a <th> or <td> element
 to indicate how many rows a cell
 should span down the table.
-![](table3.png)
+![](../img/201/table3.png)
 
 

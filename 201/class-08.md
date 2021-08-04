@@ -51,7 +51,7 @@ content.
 ## Liquid Layouts
 ### Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.
   - ex
-  ![](class-081.png)
+  ![]../img/201/(class-081.png)
 
   ## Layout Grids
   ### Composition in any visual art (such as design, painting, or photography) is the placement or arrangement of visual elements — how they are organized on a page. Many designers use a grid structure to help them position items on a page, and the same is true for web designers.
@@ -72,7 +72,7 @@ consistent way
 - @import
 - link
 ### ex 
-![](class-082.png)
-![](class-083.png)
+![](../img/201/class-082.png)
+![](../img/201/class-083.png)
 
 

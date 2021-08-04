@@ -21,12 +21,12 @@
 #### An assignment operator assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. That is, x = y assigns the value of y to x.
 
 #### There are also compound assignment operators that are shorthand for the operations listed in the following table:
-![](ASSIGNMENT.png)
+![](../img/102/ASSIGNMENT.png)
 
 ### Comparison operators
 #### A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values. Strings are compared based on standard lexicographical ordering, using Unicode values. In most cases, if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behavior generally results in comparing the operands numerically. The sole exceptions to type conversion within comparisons involve the === and !== operators, which perform strict equality and inequality comparisons. These operators do not attempt to convert the operands to compatible types before checking equality. The following table describes the comparison operators in terms of this sample code:
 
-![COMPARISON](COMPARISON.png)
+![COMPARISON](../img/102/COMPARISON.png)
 JavaScript Arithmetic Operators
 Arithmetic operators are used to perform arithmetic on numbers:
 ### Arithmetic operators

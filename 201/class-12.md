@@ -17,7 +17,7 @@
 
 
 ## A simple example
-![](class12-1.png)
+![](../img/201/class12-1.png)
 -------------------------------------------------------------------
 # EASILY CREATE STUNNING ANIMATED CHARTS WITH CHART.JS
 ### Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
@@ -28,7 +28,7 @@
 
 ## Setting up
 #### The first thing we need to do is download Chart.js. Copy the Chart.min.js out of the unzipped folder and into the directory you’ll be working in. Then create a new html page and import the script:
-![](class12-2.png)
+![](../img/201/class12-2.png)
 #### (We can actually pass some options to the chart via the Line method, but we’re going to stick to the data for now to keep it simple.)
 
 #### Inside the same script tags we need to create our data, in this instance it’s an object that contains labels for the base of our chart and datasets to describe the values on the chart. Add this immediately above the line that begins ‘var buyers=’:example:
@@ -89,4 +89,4 @@
 
 ### These options do two things, first they remove the stroke from the segments, and then they animate the scale of the pie so that it zooms out from nothing.
 
-![](class12-3.png)
+![](../img/201/class12-3.png)

@@ -13,9 +13,9 @@ newsletters or mailing lists.
 ## Form Controls
 ### There are several types of form controls that you can use to collect information from visitors to your site.
 
-![](class-091.png)
+![](../img/201/class-091.png)
 - For example :password input:
-![](class-092.png)
+![](../img/201/class-092.png)
 ----------------------------------------
 # Lists, Tables and Forms
 - List markers can be given different appearances

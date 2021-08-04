@@ -5,7 +5,7 @@
 - You must always specify a src attribute to indicate the source of an image and an alt attribute to describe the content of an image.
 - You should save images at the size you will be using them on the web page and in the appropriate format.
 - Photographs are best saved as JPEGs; illustrations or logos that use flat colors are better saved as GIFs.
-![](class05-1.png)
+![](../img/201/class05-1.png)
 ## Image Formats
 -------------------------------------------------------------
 ### DR
@@ -28,7 +28,7 @@
 #### Creating an image that is partially transparent (or "see-through") for the web involves selecting one of two formats:
 #### Transparent GIF If the transparent part of the image has straight edges and it is 100% transparent (that is, not semi-opaque), you can save the image as a GIF (with the transparency option selected).
 #### PNG If the transparent part of the image has diagonal or rounded edges or if you want a semiopaque transparency or a dropshadow, then you will need to save it as a PNG.
-![](class05-2.png)
+![](../img/201/class05-2.png)
 -------------------------------------------------------------
 ## Chapter 11: “Color”
 #### Color not only brings your site to life, but also helpsconvey the mood and evokes reactions.
@@ -38,11 +38,11 @@
 between any text and the background color (otherwise
 people will not be able to read your content).
 - CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
-![](class05-4.png)
+![](../img/201/class05-4.png)
 - CSS3 also allows you to specify colors as HSL values,
 with an optional opacity value. It is known as HSLA.
-![](class05-3.png)
-![](class05-5.png)
+![](../img/201/class05-3.png)
+![](../img/201/class05-5.png)
 -----------------------------------------------------------
 ## Chapter 12: “Text”
 - There are properties to control the choice of font, size,
