@@ -54,15 +54,15 @@
                   class ParentComponent extends Component {  
                    render() {
                    return (
-                     <h1>
-        I'm the parent component.
-        <ChildComponent text={"I'm the 1st child"} />
-        <ChildComponent text={"I'm the 2nd child"} />
-        <ChildComponent text={"I'm the 3rd child"} />
-      </h1>
-            );
-         }
-         }
+                   <h1>
+                    I'm the parent component.
+                   <ChildComponent text={"I'm the 1st child"} />
+                   <ChildComponent text={"I'm the 2nd child"} />
+                     <ChildComponent text={"I'm the 3rd child"} />
+                      </h1>
+                     );
+                         }
+                            }
 
 
  ## [check her to read about Component Based Architecture ](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
