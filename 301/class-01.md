@@ -64,10 +64,10 @@
          }
          }
 
-         
- [check her to read about Component Based Architecture ](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
- [check her to read about What is Props and How to Use it in React ](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
+ ## [check her to read about Component Based Architecture ](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+
+ ## [check her to read about What is Props and How to Use it in React ](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
 
 
