@@ -61,7 +61,7 @@
 |File Name           |Link                                       |        
 |------------------  | -------------------------------           |
 |class-01|[Introduction to React and Components](https://maiada-ibrahim.github.io/reading-notes/301/class-01)|
-|                    |                                |
+|class-02|[ State and Props](https://maiada-ibrahim.github.io/reading-notes/301/class-02)                                |
 |                    |                                |
 |                    |                                |
 |                    |                                |
