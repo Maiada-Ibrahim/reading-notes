@@ -20,3 +20,5 @@ Rewrite the following statement using a ternary statement
   condition ? value if true : value if false
 
 ## [check her to read more ](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+## Things I want to know more about
+About Formik

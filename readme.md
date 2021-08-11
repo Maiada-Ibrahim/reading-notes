@@ -64,8 +64,8 @@
 |class-02|[ State and Props](https://maiada-ibrahim.github.io/reading-notes/301/class-02)                                |
 |class-03|[Passing Functions as Props](https://maiada-ibrahim.github.io/reading-notes/301/class-03)|
 |class-04|[React and Forms](https://maiada-ibrahim.github.io/reading-notes/301/class-04)|
-|class-05||
-|class-06||
+|class-05|[Putting it all together]()|
+|class-06|[NODE.JS]()|
 |class-07||
 |class-08||
 |class-09||
