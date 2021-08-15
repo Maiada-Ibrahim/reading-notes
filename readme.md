@@ -66,7 +66,7 @@
 |class-04|[React and Forms](https://maiada-ibrahim.github.io/reading-notes/301/class-04)|
 |class-05|[Putting it all together](https://maiada-ibrahim.github.io/reading-notes/301/class-05)|
 |class-06|[NODE.JS](https://maiada-ibrahim.github.io/reading-notes/301/class-06)|
-|class-07||
+|class-07|[Rest](https://maiada-ibrahim.github.io/reading-notes/301/class-07)|
 |class-08||
 |class-09||
 |                    |                                |
