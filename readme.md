@@ -69,9 +69,4 @@
 |class-07|[Rest](https://maiada-ibrahim.github.io/reading-notes/301/class-07)|
 |class-08|[APIs](https://maiada-ibrahim.github.io/reading-notes/301/class-08)|
 |class-09|[FUNCTIONAL PROGRAMMING](https://maiada-ibrahim.github.io/reading-notes/301/class-09)|
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
+|class-10|[In memory storage](https://maiada-ibrahim.github.io/reading-notes/301/class-10)|
