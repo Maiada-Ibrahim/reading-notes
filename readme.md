@@ -70,3 +70,6 @@
 |class-08|[APIs](https://maiada-ibrahim.github.io/reading-notes/301/class-08)|
 |class-09|[FUNCTIONAL PROGRAMMING](https://maiada-ibrahim.github.io/reading-notes/301/class-09)|
 |class-10|[In memory storage](https://maiada-ibrahim.github.io/reading-notes/301/class-10)|
+|class-11|[ Authentication](https://maiada-ibrahim.github.io/reading-notes/301/class-11)|
+|class-12|[ Mongo and Mongoose](https://maiada-ibrahim.github.io/reading-notes/301/class-12)|
+|class-13|[ CRUD](https://maiada-ibrahim.github.io/reading-notes/301/class-13)|
