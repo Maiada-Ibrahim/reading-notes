@@ -84,3 +84,4 @@
 
 |File Name           |Link                                       |        
 |------------------  | -------------------------------           |
+|class-01|[Java Basics](https://maiada-ibrahim.github.io/reading-notes/401/class-01)|
