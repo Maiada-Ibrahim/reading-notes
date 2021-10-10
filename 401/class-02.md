@@ -56,6 +56,10 @@ we use it almost to unknown alternative
     // body of loop
 }
 
-if we need to execete some thing before while use do to ececete after that while
+if we need to execete some thing before while use do to execete after that while
+                 
+                 do {
+    // body of loop
+     } while(textExpression)
 
 
