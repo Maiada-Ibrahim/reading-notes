@@ -85,3 +85,4 @@
 |File Name           |Link                                       |        
 |------------------  | -------------------------------           |
 |class-01|[Java Basics](https://maiada-ibrahim.github.io/reading-notes/401/class-01)|
+|class-02|[Arrays, Loops, Imports](https://maiada-ibrahim.github.io/reading-notes/401/class-02)|

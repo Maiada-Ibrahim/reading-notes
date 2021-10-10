@@ -24,3 +24,38 @@ If you forgot to write import statements there is some thing called NetBeans thi
 ## loop
 ## What is for loop in Java?
 loops are used to repeat a block of code
+Here are the types of loops that we can find in Java:
+-  for loop
+-  for-each loop
+- While loop or do\While loop
+### -  for loop
+![](../img/401/java-for-loop.webp)
+example:
+      
+      for (int i = 1; i <= n; ++i) {
+      // body inside for loop
+      sum += i;     // sum = sum + i
+    }
+
+### for-each loop
+The Java for loop has an alternative syntax that makes it easy to iterate through arrays and collections
+example :
+          
+          // create an array
+    int[] numbers = {3, 7, 5, -5};
+    
+    // iterating through the array 
+    for (int number: numbers) {
+       System.out.println(number);
+    }
+
+###  While loop or do\While loop
+we use it almost to unknown alternative 
+
+      while (testExpression) {
+    // body of loop
+}
+
+if we need to execete some thing before while use do to ececete after that while
+
+
