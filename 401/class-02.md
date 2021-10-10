@@ -16,7 +16,7 @@ the first and secand way optional to use but third it must
 I will take about import package of class 
 we can Importing  diff way
 - Importing all the classes   : import packageName.*;
-- Importing specific class :import packageName.*;  or without import word 
+- Importing specific class :import packageName.ClassName;  or without import word 
 
 If you forgot to write import statements there is some thing called NetBeans this will do using right click on the source file and choose Fix Imports or alt+enter (I try this)
 
