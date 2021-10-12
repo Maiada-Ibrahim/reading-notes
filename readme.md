@@ -86,3 +86,4 @@
 |------------------  | -------------------------------           |
 |class-01|[Java Basics](https://maiada-ibrahim.github.io/reading-notes/401/class-01)|
 |class-02|[Arrays, Loops, Imports](https://maiada-ibrahim.github.io/reading-notes/401/class-02)|
+|class-03|[Maps, primitives, File I/O](https://maiada-ibrahim.github.io/reading-notes/401/class-03)|
