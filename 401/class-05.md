@@ -1,11 +1,13 @@
  # linked lists
- 
+
  In the world of software, the ways that we choose to organize our information is half the battle so what is linked lists?
 
  ## linked list
+ 
  A Linked List is a sequence of Nodes that are connected/linked to each other. The most defining feature of a Linked List is that each Node references the next Node in the link.
 
  ## type of linked lists
+
  - liner or non-liner :is a sequence and an order to how they are constructed and traversed we liner mean in order to get the eng non liner the the opposite
  -  Singly and Doubly
  Singly: here is only one reference, and the reference points to the Next node in a linked list.
