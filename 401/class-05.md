@@ -2,8 +2,8 @@
 
  In the world of software, the ways that we choose to organize our information is half the battle so what is linked lists?
 
- ## linked list
- 
+ # linked list
+
  A Linked List is a sequence of Nodes that are connected/linked to each other. The most defining feature of a Linked List is that each Node references the next Node in the link.
 
  ## type of linked lists
