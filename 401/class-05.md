@@ -1,4 +1,6 @@
- # linked lists
+
+
+# Linked List
 
  In the world of software, the ways that we choose to organize our information is half the battle so what is linked lists?
 
