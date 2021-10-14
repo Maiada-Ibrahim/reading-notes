@@ -1,4 +1,5 @@
  # linked lists
+ 
  In the world of software, the ways that we choose to organize our information is half the battle so what is linked lists?
 
  ## linked list
@@ -24,6 +25,12 @@
 
 # the Big O
 Is a way to express the amount of time that a function, action, or algorithm takes to run based on how many elements we pass to that function.
-THE big O for space is if the space change not like i think yesterday what need of space
+
 ![](https://miro.medium.com/max/625/1*FC0XX0-9Vx7yCS0dTS2Zrw.jpeg)
- 
+we use this to4 Key Areas for analysis:
+Input Size
+Units of Measurement
+Orders of Growth
+Best Case, Worst Case, and Average Case
+
+ I didnt under stand Big O for space it what space it take or is the space change I am Confused
