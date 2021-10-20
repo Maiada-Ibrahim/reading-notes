@@ -1,7 +1,9 @@
 # The HTTP Request Lifecycle
 
-- ![](https://cdn.journaldev.com/wp-content/uploads/2015/03/java-HttpURLConnection.png)
-Step 1: Local Processing
+ ![](https://cdn.journaldev.com/wp-content/uploads/2015/03/java-HttpURLConnection.png)
+
+
+- Step 1: Local Processing
 <protocol>://<host><:optional port>/<path/to/resource><?query>
 |http|://|www.example.com||:5000||/mainpage||?query=param&query2=param2|
 we write link in our browser in this form the browser will take requested URLs, the operating system’s take queries, your router’s cache, and your DNS cache.
