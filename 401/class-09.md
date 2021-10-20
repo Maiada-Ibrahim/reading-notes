@@ -1,22 +1,23 @@
 # The HTTP Request Lifecycle
-![](https://cdn.journaldev.com/wp-content/uploads/2015/03/java-HttpURLConnection.png)
+
+- ![](https://cdn.journaldev.com/wp-content/uploads/2015/03/java-HttpURLConnection.png)
 Step 1: Local Processing
 <protocol>://<host><:optional port>/<path/to/resource><?query>
 |http|://|www.example.com||:5000||/mainpage||?query=param&query2=param2|
 we write link in our browser in this form the browser will take requested URLs, the operating system’s take queries, your router’s cache, and your DNS cache.
 
-2. Step 2: Resolve an IP
+-  Step 2: Resolve an IP
 
 our browser  fires off a DNS request using UDP take ip and try to find dns server and send respons 
 
-3.  Establish a TCP Connection
+-  Establish a TCP Connection
 we send http request over  TCP, which is a transport layer protocol open connection delivery and ordered data transmission so know server and client acknowledgment of the connection from the other party.
 
-4. Step 4: Send an HTTP Request
+-  Step 4: Send an HTTP Request
 send requst this is host it have domain.com:8080 domain and port the respons genrate in form data or JSON.
 
 
-5. Tearing Down and Cleaning Up
+-  Tearing Down and Cleaning Up
  browser will send the page
 
 
