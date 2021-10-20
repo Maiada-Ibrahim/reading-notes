@@ -90,3 +90,4 @@
 |class-04|[OOP](https://maiada-ibrahim.github.io/reading-notes/401/class-04)|
 |class-05|[ linked lists](https://maiada-ibrahim.github.io/reading-notes/401/class-05)|
 |class-06|[Inheritance and Interfaces](https://maiada-ibrahim.github.io/reading-notes/401/class-06)|
+|class-08|[OO Design](https://maiada-ibrahim.github.io/reading-notes/401/class-08)|
