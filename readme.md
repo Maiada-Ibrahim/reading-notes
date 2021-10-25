@@ -94,3 +94,4 @@
 |class-09|[ The HTTP Request Lifecycle](https://maiada-ibrahim.github.io/reading-notes/401/class-09)|
 |class-10|[ Stacks and Queues](https://maiada-ibrahim.github.io/reading-notes/401/class-10)|
 |class-11|[ Spring](https://maiada-ibrahim.github.io/reading-notes/401/class-11)|
+|class-12|[ Spring RESTful Routing & Static Files](https://maiada-ibrahim.github.io/reading-notes/401/class-12)|
