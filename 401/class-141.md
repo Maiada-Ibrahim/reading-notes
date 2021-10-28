@@ -31,25 +31,28 @@ here are two categories of traversals when it comes to trees:
 1. in order
 herefore, we will start from the root node of the tree and go deeper-and-deeper into the left subtree with recursive manner.
 the step is :
-Go to left-subtree
-Visit Node
-Go to right-subtree
+- Go to left-subtree
+- Visit Node
+- Go to right-subtree
+
 ![](../img/401/class-142.gif)
 
 
 2. pre -order
-Order of the steps will be like…
-Visit Node
-Go to left-subtree
-Go to right-subtree
+- Order of the steps will be like…
+- Visit Node
+- Go to left-subtree
+- Go to right-subtree
+
 ![](../img/401/class-143.gif)
 
 
 3. Post-order
-the sequence of the steps will be…
-Go to left-subtree
-Go to right-subtree
-Visit Node
+- the sequence of the steps will be…
+- Go to left-subtree
+- Go to right-subtree
+- Visit Node
+
 ![](../img/401/class-144.gif)
 ----------------------------------------------------------
 ## Breadth-first search (BFS)
