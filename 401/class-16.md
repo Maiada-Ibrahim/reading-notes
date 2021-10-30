@@ -16,6 +16,8 @@ To have security in web app we use filters or we can say method annotations.
         Authentication authenticate(Authentication authentication)
         throws AuthenticationException;
         }
+
+
 what can do ?
 
 it return an Authentication 
@@ -51,6 +53,7 @@ example:
 - AuthenticationManagerBuilder is use as a helper or setting up in-memory, JDBC, or LDAP user details or for adding a custom UserDetailsService
 
 - if we use AuthenticationManagerBuilder  withe @Autowired that makes bulid is global if use it with @Override then  used only to build a “local” AuthenticationManager
+
 --------------------------------
 
 # Authorization or Access Control
