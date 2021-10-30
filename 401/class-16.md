@@ -85,29 +85,3 @@ that mean we have ThreadLocal
 contain SecurityContextHolder has methods SecurityContext which contain Authentication 
 
 also you can access  user authenticated  now using @RequestMapping
-
----------------------------
-
-# Spring Auth Cheat Sheet
-
-- Set up model and repo
-
-- create a controller for that model.
-
-- implementation of usersdetails service and implements user details.
-
-- Application User implements user details
- override the neccesary methods and make them return true.
-
-- Configure web security config class it should :
-
-has user detail service.
-password encoder autowired.
-configure authmanagerbuilder.
-Configure http security by overriding the configure method.
-Form login .
-Add matchers.
-logout functionality.
-- Add Login page form.
-- Add signup page.
-- validate the controllers of both.
