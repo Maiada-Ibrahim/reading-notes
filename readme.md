@@ -97,3 +97,4 @@
 |class-12|[ Spring RESTful Routing & Static Files](https://maiada-ibrahim.github.io/reading-notes/401/class-12)|
 |class-13|[Related Resources and Integration Testing](https://maiada-ibrahim.github.io/reading-notes/401/class-13)|
 |class-14|[Trees](https://maiada-ibrahim.github.io/reading-notes/401/class-141)|
+|class-16|[Spring Authentication](https://maiada-ibrahim.github.io/reading-notes/401/class-16)|
