@@ -98,3 +98,4 @@
 |class-13|[Related Resources and Integration Testing](https://maiada-ibrahim.github.io/reading-notes/401/class-13)|
 |class-14|[Trees](https://maiada-ibrahim.github.io/reading-notes/401/class-141)|
 |class-16|[Spring Authentication](https://maiada-ibrahim.github.io/reading-notes/401/class-16)|
+|class-17|[Spring Authorization2](https://maiada-ibrahim.github.io/reading-notes/401/class-17)|

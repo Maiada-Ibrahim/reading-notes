@@ -1,4 +1,5 @@
- ## Spring Authorization
+
+## Spring Authorization
 
 this instrction to build a sample app we will use login and sign up page using  OAuth 2.0 and spring boot
 
