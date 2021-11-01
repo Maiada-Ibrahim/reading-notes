@@ -58,3 +58,13 @@ at class SocialApplication.java  add this code
         // ... existing code here
     // @formatter:on
       }
+
+# Spring Authorization flow
+![](https://techannotation.files.wordpress.com/2014/04/oauth12.jpg?w=840)
+from this pic we see the flow has three side 
+Resource Owner the  user 
+Resource Server
+Authorization Server
+
+so the user send request for Authorization Server return with access token send this access token for Resource Server
+ to get protected Resource
