@@ -110,3 +110,12 @@ Create  html page to check the resource in this page we will
 
 
 6. run the app
+
+
+
+we use WebSocket  communication between applications or to interactive in general that happen  the http handshake then TCP/IP connection opened  by a WebSocket the WebSocket is low-level protocol we cant write text just a stream of bytes so using  STOMP
+it convert text to to enterprise message brokers
+![](../img/401/read-19.png)
+
+from ths pic we see every time open the channnel and convert the text
+
