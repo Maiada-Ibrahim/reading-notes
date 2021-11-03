@@ -100,3 +100,4 @@
 |class-16|[Spring Authentication](https://maiada-ibrahim.github.io/reading-notes/401/class-16)|
 |class-17|[Spring Authorization2](https://maiada-ibrahim.github.io/reading-notes/401/class-17)|
 |class-18|[Web App Security](https://maiada-ibrahim.github.io/reading-notes/401/class-181)|
+|class-19|[ Spring and Sockets](https://maiada-ibrahim.github.io/reading-notes/401/class-19)|
