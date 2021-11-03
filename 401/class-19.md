@@ -97,7 +97,7 @@ STOMP Simple Text Oriented Message Protocol use because clients and message brok
 
 Create  html page to check the resource in this page we will
 
--imports the SockJS and STOMP  libraries that will be used to communicate with our server through STOMP over websocket
+- imports the SockJS and STOMP  libraries that will be used to communicate with our server through STOMP over websocket
 
 -  import app.js, which contains the logic of our client application.
 
