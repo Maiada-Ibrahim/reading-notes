@@ -60,11 +60,10 @@ create two class as modles to handle the messages (json formate) this class  ins
 
 
 3.  i think we must make a Message-handling Controller to second class
+  we  route stomp message using    @Controller
 
-    we  route stomp message using    @Controller
 
-
-     @Controller
+          @Controller
           public class GreetingController {
             @MessageMapping("/hello")
          @SendTo("/topic/greetings")
