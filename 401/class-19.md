@@ -15,7 +15,11 @@ STOMP Simple Text Oriented Message Protocol use because clients and message brok
 
 
 
-2. create two class as modles to handle the messages (json formate) first one  public class HelloMessage 
+2. Create a Resource Representation Class
+to create STOMP
+create two class as modles to handle the messages (json formate) this class  instances of messsage first one  public class HelloMessage 
+
+
            
               public HelloMessage(String name) {
             this.name = name;
@@ -57,7 +61,10 @@ STOMP Simple Text Oriented Message Protocol use because clients and message brok
 
 3.  i think we must make a Message-handling Controller to second class
 
-         @Controller
+    we  route stomp message using    @Controller
+
+
+     @Controller
           public class GreetingController {
             @MessageMapping("/hello")
          @SendTo("/topic/greetings")
@@ -73,6 +80,7 @@ STOMP Simple Text Oriented Message Protocol use because clients and message brok
    that implement WebSocketMessageBrokerConfigurer interface 
 
 - override configureMessageBroker and registerStompEndpoints methods 
+that enable  WebSocket and STOMP messaging.
 
 
        @Configuration
@@ -98,7 +106,6 @@ STOMP Simple Text Oriented Message Protocol use because clients and message brok
 Create  html page to check the resource in this page we will
 
 - imports the SockJS and STOMP  libraries that will be used to communicate with our server through STOMP over websocket
-
 -  import app.js, which contains the logic of our client application.
 
 
