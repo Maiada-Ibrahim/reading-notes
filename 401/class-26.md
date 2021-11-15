@@ -9,8 +9,6 @@ To develop apps that take advantage of the Android operating system and UI, use 
 Android SDK tools compile the code, data and resource files into 
 
 
- 
-
  - Apk  (.apk)
 
   have the file we need in runtime it is the file that Android-powered devices use to install the app.
