@@ -48,6 +48,7 @@ You can define different launch modes in two ways:
 - Using the manifest file
 
 When you declare an activity in your manifest file, you can specify how the activity should associate with tasks when it starts.
+
 - Using Intent flags
 
 When you call startActivity(), you can include a flag in the Intent that declares how (or whether) the new activity should associate with the current task.
