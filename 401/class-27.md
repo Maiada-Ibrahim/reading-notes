@@ -21,7 +21,8 @@ when press the home button the benifite of that resume your app from a warm stat
 
 
 # Managing Tasks
-<activity> manifest element in the intent that you pass to startActivity() has a principal attributes :
+\<activity> manifest element in the intent that you pass to startActivity() has a principal attributes :
+
 
 - taskAffinity
 - launchMode
@@ -38,6 +39,7 @@ And it hase principal intent flags :
 
 we use these manifest attributes and intent flags to define how activities are associated with tasks and how they behave in the back stack.
 
+--------------------------------------------------
 
 ## Define launch modes using Intent flags
 Launch modes allow you to define how a new instance of an activity is associated with the current task.
