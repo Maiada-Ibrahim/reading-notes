@@ -4,6 +4,7 @@
 - Android Activities are the logical construct of the screens that we want a user to navigate through. The relation that each Activity holds with respect to other is very crucial for a good user experience.
 
 ## Lifecycle of a task and its back stack
+![](https://developer.android.com/images/fundamentals/diagram_backstack.png)
 -the activity pushed onto the stack when started by the current activity and popped off when the user leaves it using the Back button or gesture. As such, the back stack operates as a last in, first out object structure
 
 ### Back press behavior for root launcher activities
@@ -65,4 +66,16 @@ This attribute is like clearTaskOnLaunch, but it operates on a single activity, 
 
 
 ## Save key-value data 
+with small collection of key-values we use SharedPreferences APIs is object points to a file containing key-value pairs it allows us to store the data in the form of key-value pairs similar to a Map. Each SharedPreferences object reference a file, which contains the key-value pairs and provides methods to read and write them.
+![](https://miro.medium.com/max/616/1*dYBUWGgnwJsf_iiX6yIhcg.png)
+ getSharedPreferences()  for  multiple shared preference files identified by name
 
+ getPreferences() for you need to use only one shared preference file for the activity.
+
+
+ -  You can call this from any Context in your app.
+
+ -  SharedPreferences.Editor editor = sharedPref.edit()  we use that to shared preferences
+
+
+ - int highScore = sharedPref.getInt(getString(R.string.saved_high_score_key), defaultValue) we use that to read from SharedPreferences
