@@ -1,3 +1,4 @@
+
 # Read: Class 27 Read: 27 - Intents, Activities, and SharedPreferences
 ## Tasks and the back stack
 - A task is a collection of activities that users interact with when performing a certain job. The activities are arranged in a stack—the back stack—in the order in which each activity is opened. 
