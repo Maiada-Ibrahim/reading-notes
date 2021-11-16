@@ -36,7 +36,7 @@ we said we need adapter so When you define your adapter, you need to override th
 
 3. getItemCount():  calls  to get the size of the data set. 
 
-      @Override
-    public int getItemCount() {
+           @Override
+         public int getItemCount() {
         return localDataSet.length;
-    }
+         }
