@@ -1,4 +1,5 @@
 # RecyclerView
+![](https://tutorials.eu/wp-content/uploads/2020/07/RecycleViewApp.png)
 The RecyclerView class extends the ViewGroup class and implements ScrollingView interface. It is introduced in Marshmallow. It is an advanced version of the ListView with improved performance and other benefits.
 - RecyclerView is mostly used to design the user interface with the fine-grain control over the lists and grids of android application.
 - A flexible view for providing a limited window into a large data set.
