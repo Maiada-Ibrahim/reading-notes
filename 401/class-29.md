@@ -68,6 +68,8 @@ by create a new data class where each instance holds an instance of the parent e
 ------------------------------------------------------
 
 # Accessing data using Room DAOs
+
+![](https://i.ytimg.com/vi/0cg09tlAAQ0/maxresdefault.jpg)
 ## Insert
 allows you to define methods that insert their parameters into the appropriate table in the database
 
