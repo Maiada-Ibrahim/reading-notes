@@ -104,3 +104,4 @@
 |class-26|[ Android Fundamentals](https://maiada-ibrahim.github.io/reading-notes/401/class-26)|
 |class-27|[Intents, Activities, and SharedPreferences](https://maiada-ibrahim.github.io/reading-notes/401/class-27)|
 |class-28|[RecyclerView](https://maiada-ibrahim.github.io/reading-notes/401/class-28)|
+|class-29|[Room](https://maiada-ibrahim.github.io/reading-notes/401/class-29)|
