@@ -105,4 +105,5 @@
 |class-27|[Intents, Activities, and SharedPreferences](https://maiada-ibrahim.github.io/reading-notes/401/class-27)|
 |class-28|[RecyclerView](https://maiada-ibrahim.github.io/reading-notes/401/class-28)|
 |class-29|[Room](https://maiada-ibrahim.github.io/reading-notes/401/class-29)|
-|class-29|[Hash Tables](https://maiada-ibrahim.github.io/reading-notes/401/class-30)|
+|class-30|[Hash Tables](https://maiada-ibrahim.github.io/reading-notes/401/class-30)|
+|class-31|[Espresso](https://maiada-ibrahim.github.io/reading-notes/401/class-31)|
