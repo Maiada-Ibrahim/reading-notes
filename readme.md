@@ -108,3 +108,4 @@
 |class-30|[Hash Tables](https://maiada-ibrahim.github.io/reading-notes/401/class-30)|
 |class-31|[Espresso](https://maiada-ibrahim.github.io/reading-notes/401/class-31)|
 |class-32|[Serverless and Amplify](https://maiada-ibrahim.github.io/reading-notes/401/class-32)|
+|class-33|[GraphQL @connection](https://maiada-ibrahim.github.io/reading-notes/401/class-33)|
