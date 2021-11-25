@@ -1,4 +1,4 @@
-Graphs
+# Graphs
 - non-linear data structure (node or vertices  ) connected by line segments named edges.
 
 ## important to know
