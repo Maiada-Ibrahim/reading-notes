@@ -1,4 +1,4 @@
-ANALYTICS
+# ANALYTICS
 
 The Analytics category enables you to collect analytics data for your App
 ![](https://d1.awsstatic.com/IoT/diagrams/product-page-diagram_AWS-IoT-Anayltics_how-it-works.a5019170e9ea35fbcec683cf4a394d7a5daa6644.png)

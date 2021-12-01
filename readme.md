@@ -114,3 +114,4 @@
 |class-36|[Cognito](https://maiada-ibrahim.github.io/reading-notes/401/class-36)|
 |class-37|[S3](https://maiada-ibrahim.github.io/reading-notes/401/class-37)|
 |class-38|[Notifications](https://maiada-ibrahim.github.io/reading-notes/401/class-38)|
+|class-39|[Kinesis](https://maiada-ibrahim.github.io/reading-notes/401/class-39)|
