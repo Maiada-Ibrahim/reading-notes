@@ -1,5 +1,5 @@
 # Ethics
-
+![](https://www.scu.edu/media/mobi/blog-variants/Ethics-Blog-760x550-760x550.png)
 We making the analysis, specification, design, development, testing and maintenance of software a beneficial and respected profession.
 software engineers shall adhere to the following Eight Principles:
 
