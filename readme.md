@@ -116,4 +116,4 @@
 |class-38|[Notifications](https://maiada-ibrahim.github.io/reading-notes/401/class-38)|
 |class-39|[Kinesis](https://maiada-ibrahim.github.io/reading-notes/401/class-39)|
 |class-40|[Intent Filters](https://maiada-ibrahim.github.io/reading-notes/401/class-40)|
-|class-41|[Location](https://maiada-ibrahim.github.io/reading-notes/401/class-42)|
+|class-42|[Location](https://maiada-ibrahim.github.io/reading-notes/401/class-42)|
