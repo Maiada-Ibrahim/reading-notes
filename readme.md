@@ -118,3 +118,4 @@
 |class-40|[Intent Filters](https://maiada-ibrahim.github.io/reading-notes/401/class-40)|
 |class-42|[Location](https://maiada-ibrahim.github.io/reading-notes/401/class-42)|
 |class-43|[Ethics](https://maiada-ibrahim.github.io/reading-notes/401/class-43)|
+<!-- |class-44|[Open Source](https://maiada-ibrahim.github.io/reading-notes/401/class-44)| -->
